@@ -1,4 +1,4 @@
 # hello-world
 Hello world!
 
-My first GitHub repo.
+Yes, my first GitHub repo.
