@@ -1,5 +1,5 @@
 # hello-world
 Hello there!
-Wow!
+Master
 Blimey, my first GitHub repository.
 __EOF__
