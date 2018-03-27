@@ -2,5 +2,5 @@
 Hello there!
 Master
 Blimey, my first GitHub repository.
-Rebase
+Test, Rebase
 __EOF__
